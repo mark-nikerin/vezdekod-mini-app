@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/vezdekod-mini-app/static/js/main.84c6c901.chunk.js",
+    "main.js.map": "/vezdekod-mini-app/static/js/main.84c6c901.chunk.js.map",
+    "runtime-main.js": "/vezdekod-mini-app/static/js/runtime-main.c4cd9424.js",
+    "runtime-main.js.map": "/vezdekod-mini-app/static/js/runtime-main.c4cd9424.js.map",
+    "static/css/2.09e62520.chunk.css": "/vezdekod-mini-app/static/css/2.09e62520.chunk.css",
+    "static/js/2.b6061636.chunk.js": "/vezdekod-mini-app/static/js/2.b6061636.chunk.js",
+    "static/js/2.b6061636.chunk.js.map": "/vezdekod-mini-app/static/js/2.b6061636.chunk.js.map",
+    "index.html": "/vezdekod-mini-app/index.html",
+    "precache-manifest.bb8ce968518fd536bf0b38a061ddd2ed.js": "/vezdekod-mini-app/precache-manifest.bb8ce968518fd536bf0b38a061ddd2ed.js",
+    "service-worker.js": "/vezdekod-mini-app/service-worker.js",
+    "static/css/2.09e62520.chunk.css.map": "/vezdekod-mini-app/static/css/2.09e62520.chunk.css.map",
+    "static/js/2.b6061636.chunk.js.LICENSE.txt": "/vezdekod-mini-app/static/js/2.b6061636.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4cd9424.js",
+    "static/css/2.09e62520.chunk.css",
+    "static/js/2.b6061636.chunk.js",
+    "static/js/main.84c6c901.chunk.js"
+  ]
+}
